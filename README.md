@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Bahadur-ninama/Bahadur-ninama/10e989226662fa82987593f4ad3d713a542ac0f5/1724519078945.jpg)
 <h1 align="center">Hi 👋, I'm Bahadur Ninama</h1>
 <h3 align="center">A passionate Software Engineer from Madhya Pradesh</h3>
 
@@ -10,7 +11,7 @@
 
 - 🤝 I’m looking for **help with improving my DevOps skills and building scalable Java web apps.**
 
-- ⚡ Fun fact **I learn best when I break things and fix them again.**
+- 💻 Fun fact **I learn best when I break things and fix them again.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
